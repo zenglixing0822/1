@@ -99,5 +99,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://gh_token@github.com/zenglixing0822/zenglixing0822.github.io.git
-  branch: master 
+  repo: 
+    github: https://gh_token@github.com/zenglixing0822/zenglixing0822.github.io,master 
+    gitee: https://gitee.com/zenglixing0822/zenglixing0822.gitee.io.git,master
